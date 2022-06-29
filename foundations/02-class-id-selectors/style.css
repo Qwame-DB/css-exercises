@@ -1,0 +1,22 @@
+.uno {
+    background: #ffb6c1;
+    font-family: 'verdana', 'DejaVu', 'sans-serif';
+    font-size: large;
+}
+
+.uno.two {
+    font-size: 26px;
+}
+
+#num {
+    color:hsl(240, 100%, 50%) ;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#deux {
+    background: #29d376;
+    color: hsl(0, 0%, 0%);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
