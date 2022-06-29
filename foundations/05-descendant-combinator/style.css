@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div p{
+    background: yellow;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
